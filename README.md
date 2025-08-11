@@ -16,17 +16,19 @@ Automatically records attendance in a CSV file 📂.
 
 Efficient and time-saving solution for schools and workplaces 🏢.
 
+
 🛠️ Technologies & Libraries Used
 
-- Python 🐍
+- Python 
 
-- OpenCV 🎥
+- OpenCV 
 
-- EigenFace Algorithm 🤖
+- EigenFace Algorithm 
 
-- Haarcascade Classifier 📸
+- Haarcascade Classifier 
 
-- CSV for attendance tracking 📊
+- CSV for attendance tracking
+  
 
 📊 Project Workflow
 
