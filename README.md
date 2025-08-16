@@ -74,11 +74,6 @@ jupyter notebook Face_Recognition.ipynb
 
 ---
 
-## 📸 Demo  
-(Add screenshots or GIFs here showing live webcam feed, attendance marking, and generated CSV.)  
-
----
-
 ## ✅ Future Enhancements  
 - Integration with **databases** (MySQL/PostgreSQL)  
 - Cloud deployment for **remote access**  
@@ -89,8 +84,8 @@ jupyter notebook Face_Recognition.ipynb
 
 ## 👨‍💻 Author  
 **Mohammed Rifaiz**  
-- 🌐 [GitHub](https://github.com/your-username)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌐 [GitHub](https://github.com/Mrif123)  
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-rifaiz)  
 
 ---
 
